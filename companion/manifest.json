@@ -5,7 +5,7 @@
 	"name": "Video Assisted Referee for Trampoline",
 	"shortname": "VAR Trampoline",
 	"description": "Control review, playback, markers and camera views of Video Assisted Referee for Trampoline",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/jeluf/companion-module-var2-for-trampoline.git",
 	"bugs": "https://github.com/jeluf/companion-module-var2-for-trampoline/issues",
